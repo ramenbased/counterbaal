@@ -163,7 +163,7 @@ func cformat(i int64, name string) string {
 	}
 }
 
-// Licenes of dependencies:
+// Licenses of dependencies:
 
 // 1. clipboard
 
