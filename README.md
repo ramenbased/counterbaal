@@ -2,6 +2,8 @@
 Quality of life tool for people hosting diablo2r baalruns. Automatically counts up and writes the game name into clipboard.
 Probably only useful if running d2r in window mode.
 
+Download: https://github.com/ramenbased/counterbaal/releases
+
 ![This is an image](https://i.imgur.com/glCdTr3.gif)
 
 
