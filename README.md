@@ -7,4 +7,4 @@ Download: https://github.com/ramenbased/counterbaal/releases
 ![This is an image](https://i.imgur.com/glCdTr3.gif)
 
 
-see counterbaal.go source file for licenses of dependencies.
+see https://github.com/ramenbased/counterbaal/blob/main/counterbaal.go source file for licenses of dependencies.
